@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ChangeActivity
+
+
+
+    </string>
+
+    <string name="EMail">Email</string>
+    <string name="Password">Password</string>
+    <string name="Register">Register</string>
+    <string name="ForgotPW"><u>Forgot password?</u></string>
+    <string name="getBack">Get me back!</string>
+    <string name="sendEmail">Send my password</string>
+
+
+</resources>
